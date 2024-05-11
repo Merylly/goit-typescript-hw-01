@@ -1,0 +1,1 @@
+let mixedType: string | number;
